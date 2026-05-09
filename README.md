@@ -15,7 +15,7 @@
 </div>
 
 <h1 align="center">
-  <span style="color:red; font-size:55px;">𝑴𝑶𝑵𝑻𝑬 𝑫𝑬𝑽</span>
+  <span style="color:red; font-size:55px;">JOHAN DEV</span>
 </h1>
 
 <h3 align="center">Johan dev</h3>
