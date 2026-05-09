@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mzml-gg/Api-creds.json-/main/IMG-20260320-WA0382.jpg" alt="Balis Banner" width="100%">
+  <img src="https://files.catbox.moe/qza9t0.jpg" alt="Balis Banner" width="100%">
 </p>
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029Vb6S5R9DJ6H01zcTAh0j">
-    ٺـم࣬ ٺحہּٰډيـثَ ۿـﮂ۬أ أݪـم࣬سٰٺــوٰډـ؏ٚ  بٚٺــأࢪيخَ ؍ 🌸♡゙ ُ𓂁 (2026-3-22)
+    تـم انشائها في تاريخ 9-5-2026
   </a>
 </div>
 
