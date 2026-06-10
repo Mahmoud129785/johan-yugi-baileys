@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vb6S5R9DJ6H01zcTAh0j">
+  <a href="https://whatsapp.com/channel/0029Vb7EcdO5Ui2ZfjnAue2o">
     تـم انشائها في تاريخ 9-5-2026
   </a>
 </div>
@@ -19,6 +19,20 @@
 </h1>
 
 <h3 align="center">Johan dev</h3>
+
+---
+
+## 🖼️ **𝐌𝐞𝐝𝐢𝐚 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞**  
+
+<div align="center">
+  <img src="https://files.catbox.moe/9fk0nn.jpg" alt="Preview 1" width="30%">
+  <img src="https://files.catbox.moe/0k9esc.jpeg" alt="Preview 2" width="30%">
+  <img src="https://files.catbox.moe/qjn0wf.jpg" alt="Preview 3" width="30%">
+</div>
+
+<div align="center">
+  <sub>✨  **مـشـاريـعـي تـتـحـدث عـن نـفـسـها**  ✨</sub>
+</div>
 
 ---
 
@@ -56,21 +70,3 @@
 
 ```bash
 npm install
-⚙️ 𝑬𝒗𝒆𝒏𝒕 𝑯𝒂𝒏𝒅𝒍𝒊𝒏𝒈
-𝑩𝒂𝒍𝒊𝒔 𝒖𝒔𝒆𝒔 𝑬𝒗𝒆𝒏𝒕𝑬𝒎𝒊𝒕𝒕𝒆𝒓 𝒔𝒚𝒔𝒕𝒆𝒎 𝒋𝒖𝒔𝒕 𝒍𝒊𝒌𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝑩𝒂𝒊𝒍𝒆𝒚𝒔.
-𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕: 𝑪𝒉𝒆𝒄𝒌 𝒂𝒍𝒍 𝑩𝒂𝒊𝒍𝒆𝒚𝒔 𝒆𝒗𝒆𝒏𝒕𝒔 𝒅𝒐𝒄𝒖𝒎𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏 𝒃𝒆𝒇𝒐𝒓𝒆 𝒖𝒔𝒆.
-𝑬𝒙𝒂𝒎𝒑𝒍𝒆:
-𝑱𝒔
-𝑪𝒐𝒑𝒚 𝒄𝒐𝒅𝒆
-𝒄𝒐𝒏𝒔𝒕 𝒔𝒐𝒄𝒌 = 𝒎𝒂𝒌𝒆𝑾𝑨𝑺𝒐𝒄𝒌𝒆𝒕()
-
-𝒔𝒐𝒄𝒌.𝒆𝒗.𝒐𝒏('𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔.𝒖𝒑𝒔𝒆𝒓𝒕', ({ 𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔 }) => {
-  𝒄𝒐𝒏𝒔𝒐𝒍𝒆.𝒍𝒐𝒈('𝑵𝒆𝒘 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 𝒓𝒆𝒄𝒆𝒊𝒗𝒆𝒅:', 𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔)
-})
-🔧 𝑮𝒓𝒐𝒖𝒑 𝑴𝒆𝒏𝒕𝒊𝒐𝒏 𝑭𝒊𝒙 (@𝒍𝒊𝒅 𝑺𝒖𝒑𝒑𝒐𝒓𝒕)
-𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅 𝒔𝒚𝒔𝒕𝒆𝒎 𝒕𝒐 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 𝒓𝒆𝒔𝒐𝒍𝒗𝒆 @𝒍𝒊𝒅 𝒎𝒆𝒏𝒕𝒊𝒐𝒏𝒔 𝒊𝒏𝒔𝒊𝒅𝒆 𝒈𝒓𝒐𝒖𝒑𝒔.
-✔ 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 𝒎𝒂𝒑𝒔 𝒍𝒊𝒅 𝒕𝒐 𝒓𝒆𝒂𝒍 𝒋𝒊𝒅
-✔ 𝑹𝒆𝒑𝒍𝒂𝒄𝒆𝒔 𝒎𝒆𝒏𝒕𝒊𝒐𝒏 𝒕𝒆𝒙𝒕 𝒄𝒐𝒓𝒓𝒆𝒄𝒕𝒍𝒚
-✔ 𝑾𝒐𝒓𝒌𝒔 𝒘𝒊𝒕𝒉 𝒎𝒖𝒍𝒕𝒊-𝒅𝒆𝒗𝒊𝒄𝒆
-�
-🔥 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 johan 🔥 
